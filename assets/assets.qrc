@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>fonts/Roboto-Bold.ttf</file>
+        <file>fonts/Roboto-Light.ttf</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>qml/controls/ApplicationWindow.qml</file>
+        <file>qml/components/Palette.qml</file>
+        <file>qml/screens/MainScreen.qml</file>
+        <file>qml/controls/BaseScreen.qml</file>
+        <file>qml/controls/Label.qml</file>
+        <file>images/splash.png</file>
+        <file>qml/screens/SplashScreen.qml</file>
+        <file>qml/controls/AbstractButton.qml</file>
+        <file>qml/controls/MenuButton.qml</file>
+        <file>qml/controls/ToolBar.qml</file>
+        <file>fonts/fontawesome-webfont.ttf</file>
+        <file>qml/controls/ToolBarIconButton.qml</file>
+        <file>qml/screens/NewReportScreen.qml</file>
+        <file>qml/scripts/Reports.js</file>
+        <file>qml/screens/ReportsScreen.qml</file>
+        <file>qml/controls/TextField.qml</file>
+        <file>qml/controls/FormButton.qml</file>
+        <file>qml/controls/Popup.qml</file>
+        <file>qml/controls/ScrollArea.qml</file>
+        <file>qml/controls/VerticalScrollBar.qml</file>
+    </qresource>
+</RCC>
